@@ -1,11 +1,1 @@
-workerfresh3: node 15-19.js
-workerfresh4: node 20-24.js
-workerfresh5: node 31-35.js
-workerfresh6: node 36-40.js
-workerfresh7: node 41-45.js
-workerfresh8: node 46-50.js
-workerfresh9: node 51-55.js
-workerfresh10: node 56-61.js
-workerfresh11: node 62-66.js
-workerfresh12: node 67-71.js
 workerfresh13: node 72-76.js
