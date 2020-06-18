@@ -1,1 +1,19 @@
 
+ {
+  "name": "Test",
+  "description": "Test",
+  "version": "0.0.0",
+  "main": [
+    "me.js"
+    ],
+  "scripts": {
+    "start": [
+     "node 72-76.js"
+      ]
+  },
+ "dependencies": {
+    "discord.js": "11.5.0",
+    "enmap": "4.8.7"
+
+  }
+}
