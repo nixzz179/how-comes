@@ -9,7 +9,9 @@
   "scripts": {
     "start": [
      "node 72-77.js",
-     "node 78-85.js"
+     "node 78-85.js",
+     "node 86-90.js",
+     "node 91-95.js"
       ]
   },
  "dependencies": {
