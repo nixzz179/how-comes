@@ -11,7 +11,9 @@
      "node 72-77.js",
      "node 78-85.js",
      "node 86-90.js",
-     "node 91-95.js"
+     "node 91-95.js",
+     "node 95-99.js",
+     "node 100-104.js"
       ]
   },
  "dependencies": {
