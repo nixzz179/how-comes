@@ -15,7 +15,14 @@
      "node 91-95.js",
      "node 95-99.js",
      "node 100-104.js",
-     "node 105-109.js"
+     "node 105-109.js",
+     "node 110.js",
+     "node 111.js",
+     "node 112.js",
+     "node 113.js",
+     "node 114.js",
+     "node 115.js",
+     "node 116.js"
       ]
   },
  "dependencies": {
