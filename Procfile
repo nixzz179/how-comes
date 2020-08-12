@@ -6,3 +6,10 @@ workerfresh16: node 91-95.js
 workerfresh17: node 95-99.js
 workerfresh18: node 100-104.js
 workerfresh19: node 105-109.js
+workernewfresh1: node 110.js
+workernewfresh2: node 111.js
+workernewfresh3: node 112.js
+workernewfresh4: node 113.js
+workernewfresh5: node 114.js
+workernewfresh6: node 115.js
+workernewfresh7: node 116.js
