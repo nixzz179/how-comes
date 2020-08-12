@@ -8,6 +8,7 @@
     ],
   "scripts": {
     "start": [
+     "node 67-71.js",
      "node 72-77.js",
      "node 78-85.js",
      "node 86-90.js",
